@@ -1,0 +1,12 @@
+{
+  "name": "lambda-ics-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/commonknowledge/lambda-ics-generator.git",
+  "author": "Jan Baykara <jan@baykara.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "ics": "^2.10.0",
+    "moment": "^2.22.2"
+  }
+}
